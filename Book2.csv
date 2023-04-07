@@ -1,0 +1,18 @@
+ids,labels,parents
+Enzymatic-CollegeDetails,College Details,
+hi-Degree,Degree,Enzymatic-CollegeDetails
+hi-Branch,Branch,Enzymatic-CollegeDetails
+Degree-BE,BE,hi-Degree
+Degree-BTech,BTech,hi-Degree
+Degree-ME,ME,hi-Degree
+Degree-MTech,MTech,hi-Degree
+Degree-BCA,BCA,hi-Degree
+Degree-MCA,MCA,hi-Degree
+Degree-Others,Others,hi-Degree
+Branch-MECH,MECH,hi-Branch
+Branch-CIVIL,CIVIL,hi-Branch
+Branch-EEE,EEE,hi-Branch
+Branch-ECE,ECE,hi-Branch
+Branch-CSE,CSE,hi-Branch
+Branch-IT,IT,hi-Branch
+Branch-Others,Others,hi-Branch
